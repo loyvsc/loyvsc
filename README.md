@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Valery Varaksa
+======================================================================================================================================
+I'am C# (WPF) Developer
+------------------
 
-<!--
-**loyvsc/loyvsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've learning to code for 3 years and this you can sow some my projects.
 
-Here are some ideas to get you started:
+*   🌍  I'm based in Minsk, Belarus
+*   ✉️  You can contact me at [![gem](https://img.shields.io/badge/link-gmail-red)](mailto:varaksav62@gmail.com) or by [![gem](https://img.shields.io/badge/link-linkedin-blue)](https://www.linkedin.com/in/valery-varaksa-7b90b4259/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills 
+
+- **C#**
+- **WPF**
+- **Entity Framework Core**
+- **MySQL**
+- **MS SQL Server**
+- **ASP.NET WebApi**
+- **SignalR**
+- **gRPC**
+- **NUnit (+ xUnit and MSTest)**
+
+### Socials
+
+[![My socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/valery-varaksa-7b90b4259/)
+
+### My GitHub Stats
+<p>
+  <a href="http://www.github.com/loyvsc">
+    <img src="https://github-readme-stats.vercel.app/api?username=loyvsc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="loyvsc's GitHub stats" />
+</a>
+</p>
