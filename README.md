@@ -1,7 +1,5 @@
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
-I'am C# (WPF) Developer
-------------------
 
 *   🌍  I'm based in Minsk, Belarus
 *   ✉️  You can contact me at [![gem](https://img.shields.io/badge/link-gmail-red)](mailto:varaksav62@gmail.com) or by [![gem](https://img.shields.io/badge/link-linkedin-blue)](https://www.linkedin.com/in/valery-varaksa-7b90b4259/)
